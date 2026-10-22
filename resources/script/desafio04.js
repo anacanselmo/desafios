@@ -1,4 +1,3 @@
-let listaDelivros = prompt("Digite o nome de um livro:");
 
 let livros = [
     "Harry Potter",
